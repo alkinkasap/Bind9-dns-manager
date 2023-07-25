@@ -2,7 +2,7 @@
 Bind9 DNSManager
 
 
-This program aims to ease updating **db.local** file of Bind9 Dns Manager. 
+This simple bash script aims to ease updating **db.local** file of Bind9 Dns Manager. 
 
 A sudo user could run it to manipulate **db.local** file. 
 
